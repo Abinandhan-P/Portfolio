@@ -17,59 +17,45 @@ const introdata = {
 
 const dataabout = {
     title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    aboutme: "I am an aspiring web developer with a passion for front-end design and user-friendly interfaces. I enjoy blending creativity with technology to build engaging digital experiences.",
 };
-const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
-    },
-    {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
-    },
-    {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
-    },
-];
+
 
 const skills = [{
-        name: "Python",
-        value: 90,
-    },
-    {
-        name: "Djano",
+        name: "Figma",
         value: 85,
     },
     {
-        name: "Javascript",
-        value: 80,
+        name: "MongoDB",
+        value: 60,
+    },
+    {
+        name: "Html / Css",
+        value: 90,
     },
     {
         name: "React",
         value: 60,
     },
     {
-        name: "Jquery",
+        name: "Express",
         value: 85,
     },
 ];
 
 const services = [{
         title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: "I create intuitive and engaging user interfaces with a focus on seamless user experiences. My design process combines creativity and functionality to deliver visually appealing, responsive, and user-friendly digital products.",
     },
     {
-        title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Web Design & Development",
+        description: "I build modern, responsive, and visually appealing websites tailored to client needs. My focus is on clean code, smooth performance, and mobile-friendly designs.",
     },
     {
-        title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Front-End Development",
+        description: "With expertise in HTML, CSS, JavaScript, and frameworks, I create interactive and dynamic web applications that deliver excellent user experiences.",
     },
+
 ];
 
 const dataportfolio = [{
@@ -136,8 +122,8 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
+    YOUR_EMAIL: "abinandhan167@gmail.com",
+    YOUR_FONE: "+91 (6380662873)",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
@@ -147,10 +133,9 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
+    github: "https://github.com/Abinandhan-P/Portfolio",
+    linkedin: "www.linkedin.com/in/abi-nandhan-697ba026a",
+
 };
 export {
     meta,
